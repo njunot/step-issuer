@@ -1,4 +1,4 @@
-PKG?=github.com/smallstep/step-issuer
+PKG?=github.com/njunot/step-issuer
 BINNAME?=manager
 PREFIX?=
 
