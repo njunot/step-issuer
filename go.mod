@@ -1,4 +1,4 @@
-module github.com/smallstep/step-issuer
+module github.com/njunot/step-issuer
 
 go 1.23.8
 

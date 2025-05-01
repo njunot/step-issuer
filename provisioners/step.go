@@ -9,9 +9,9 @@ import (
 	"sync"
 
 	certmanager "github.com/cert-manager/cert-manager/pkg/apis/certmanager/v1"
-	capi "github.com/smallstep/certificates/api"
-	"github.com/smallstep/certificates/ca"
-	api "github.com/smallstep/step-issuer/api/v1beta1"
+	capi "github.com/njunot/certificates/api"
+	"github.com/njunot/certificates/ca"
+	api "github.com/njunot/step-issuer/api/v1beta1"
 	"k8s.io/apimachinery/pkg/types"
 )
 

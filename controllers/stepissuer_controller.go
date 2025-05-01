@@ -20,8 +20,8 @@ import (
 	"fmt"
 
 	"github.com/go-logr/logr"
-	api "github.com/smallstep/step-issuer/api/v1beta1"
-	"github.com/smallstep/step-issuer/provisioners"
+	api "github.com/njunot/step-issuer/api/v1beta1"
+	"github.com/njunot/step-issuer/provisioners"
 	core "k8s.io/api/core/v1"
 	apierrors "k8s.io/apimachinery/pkg/api/errors"
 	"k8s.io/apimachinery/pkg/types"

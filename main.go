@@ -20,8 +20,8 @@ import (
 	"os"
 
 	certmanager "github.com/cert-manager/cert-manager/pkg/apis/certmanager/v1"
-	stepv1beta1 "github.com/smallstep/step-issuer/api/v1beta1"
-	"github.com/smallstep/step-issuer/controllers"
+	stepv1beta1 "github.com/njunot/step-issuer/api/v1beta1"
+	"github.com/njunot/step-issuer/controllers"
 	"k8s.io/apimachinery/pkg/runtime"
 	clientgoscheme "k8s.io/client-go/kubernetes/scheme"
 	_ "k8s.io/client-go/plugin/pkg/client/auth/gcp"
